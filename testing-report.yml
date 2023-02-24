@@ -1,0 +1,24 @@
+---
+- summary: |
+    Проверка создания новой игры на браузере Opera
+  status: pass
+
+- summary: |
+    Проверка смены языка программирования в игре на браузере Chrome
+  status: pass
+
+- summary: |
+    Проверка написания текста в чат во время игры на браузере Mozilla
+  status: pass
+
+- summary: |
+    Проверка смены заданий при изменении уровня сложности на браузере Mozilla
+  status: pass
+
+- summary: |
+    Проверка просмотра списка лидеров на браузере Chrome
+  status: pass
+
+- summary: |
+    Проверка кнопки Fight в Lobby на браузере Chrome
+  status: pass
